@@ -18,7 +18,7 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently working on **Full-Stack Web Application Development Using the MERN Stack**
-- 🌱 I’m currently learning **Typescript & AWS **
+- 🌱 I’m currently learning ** Nest-JS & AWS **
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-two-chi-18.vercel.app/)
 - 📫 How to reach me: **prodip.code@gmail.com**
 - ⚡ Fun fact: I love creating smooth UI experiences and clean codes!
